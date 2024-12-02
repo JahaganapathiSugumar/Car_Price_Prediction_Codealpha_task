@@ -1,6 +1,3 @@
-### 2. **Car Price Prediction**
-
-```markdown
 # Car Price Prediction
 
 ## Overview
@@ -23,5 +20,3 @@ This project focuses on analyzing the factors influencing car prices, such as br
 ## Outputs
 - Visualizations of trends and relationships between features and car prices.
 - Predicted car prices based on input factors.
-
----
