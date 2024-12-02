@@ -14,7 +14,7 @@ This project focuses on analyzing the factors influencing car prices, such as br
 
 ## How to Use
 1. Clone this repository.
-2. Install the required dependencies listed in `requirements.txt`.
+2. Install the necessary dependencies (e.g., Pandas, NumPy, Matplotlib, Seaborn).
 3. Run the Jupyter Notebook to explore the data and generate predictions.
 
 ## Outputs
